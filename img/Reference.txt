@@ -1,0 +1,5 @@
+bg-masthead_2: https://www.llnl.gov/news/researchers-develop-efficient-approach-manufacture-3d-metal-parts
+
+bg-masthead_3: https://www.wcm.com/services/prototyping/sla-sls/
+
+bg-masthead_4: https://www.3ders.org/articles/20170620-ge-additive-to-unveil-worlds-largest-metal-sls-3d-printer-later-this-year.html
