@@ -10742,7 +10742,12 @@ header.masthead h1 {
 }
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name {
+<<<<<<< HEAD
   font-size: 1.2rem;
+=======
+  font-size: 100vw;
+  /*1.2rem;*/
+>>>>>>> 86ca01eaf56f63600a834e7357ded97f15185d58
 }
 
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
